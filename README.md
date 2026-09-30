@@ -67,20 +67,25 @@ EDA was performed to investigate
 
 ## Dashboard Preview
 ### Executive Overview
-<img width="900" height="507" alt="executive_overview" src="https://github.com/user-attachments/assets/e56cdaf1-be96-4a25-a588-9dc46ed1878f" />
+<img width="900" height="507" alt="executive_overview" src="https://github.com/user-attachments/assets/f2991ee9-9b50-4b92-aa65-a7cf22f27693" />
+
 
 ### Product Perfomance
-<img width="901" height="504" alt="Product_analysis" src="https://github.com/user-attachments/assets/4a2ef614-14fc-4e3c-87c1-e9b4177209bb" />
+<img width="901" height="504" alt="Product_analysis" src="https://github.com/user-attachments/assets/ab2138cf-bbb0-4bfc-bd15-4a588715d2bb" />
+
 
 ### Customer and Market Analysis
-<img width="1027" height="531" alt="Top_customers" src="https://github.com/user-attachments/assets/c3d803c1-1766-4421-89f7-5225cfde3ed9" />
+<img width="1027" height="531" alt="Top_customers" src="https://github.com/user-attachments/assets/5e6bd74d-a3b3-49aa-88e4-6550890f9e3b" />
+
 
 ### Sales Trends
-<img width="1100" height="532" alt="top_month" src="https://github.com/user-attachments/assets/b45b7178-ba36-4e41-b8be-df57fa29c5ec" />
+<img width="1100" height="532" alt="top_month" src="https://github.com/user-attachments/assets/7fb4eafe-2df9-48f4-8fce-f976194172e5" />
+
 
 
 ### Order and Pricing Analysis
-<img width="893" height="500" alt="Order_analysis" src="https://github.com/user-attachments/assets/8c998474-15ba-49be-887f-65b2dcf2f0aa" />
+<img width="893" height="500" alt="Order_analysis" src="https://github.com/user-attachments/assets/96d1e479-cfcf-4356-82e1-b0103a6c52ac" />
+
 
 ## Key Findings
 
@@ -102,3 +107,8 @@ Examine the concetration of sales across countries and cities to understand mark
 Monitor the contribution of high-value customers and investigate customer retention and purchasing patterns.
 ### Seasonlity
 Investigate the reccuring November sales peaks and deterimine whether seasonal campaigns, purchasing cycles or other factors may explain the pattern 
+
+**Email** ramsydelkutswa16@gmail.com
+**LinkedIn** https://www.linkedin.com/in/ramsdel-kutswa-03873026b
+
+**If you have found this project useful, give it a star**
